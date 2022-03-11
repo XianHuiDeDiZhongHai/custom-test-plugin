@@ -1,0 +1,1 @@
+{"version":3,"file":"index.umd.js","sources":["../src/main.js"],"sourcesContent":["import parent from \"parent\"\r\n\r\nconsole.log(child)\r\nconsole.log(parent)\r\n"],"names":["parent"],"mappings":";;;;;;;;;;CAEA,OAAO,CAAC,GAAG,CAAC,KAAK,EAAC;CAClB,OAAO,CAAC,GAAG,CAACA,0BAAM;;;;;;"}

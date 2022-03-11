@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.esm.js","sources":["../src/main.js"],"sourcesContent":["console.log(\"parent:src/main.js\")\r\n\r\nexport default {\r\n  name: \"parent-custom\",\r\n  age: 1,\r\n}\r\n"],"names":[],"mappings":"AAAA,OAAO,CAAC,GAAG,CAAC,oBAAoB,EAAC;AACjC;AACA,WAAe;AACf,EAAE,IAAI,EAAE,eAAe;AACvB,EAAE,GAAG,EAAE,CAAC;AACR;;;;"}
